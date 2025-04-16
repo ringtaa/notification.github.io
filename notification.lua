@@ -1,4 +1,5 @@
--- Notifications
+local StarterGui = game:GetService("StarterGui")
+
 StarterGui:SetCore("SendNotification", {
     Title = "RINGTA MADE THIS!",
     Text = "discord.gg/ringta",
